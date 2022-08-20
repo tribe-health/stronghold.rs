@@ -1,5 +1,10 @@
 # Changelog
 
+## \[0.9.0]
+
+- Add ConcatSecret as procedure to concatenate secrets from different locations together
+  - [ce3a69d0](https://www.github.com/iotaledger/stronghold.rs/commit/ce3a69d0db6245c7dd5b4ec28adc2dbfb1279d37) feat: add ConcatSecret as procedure on 2022-07-25
+
 ## \[0.8.1]
 
 - Bip39 mnemonic will now be cleared before the procedure will be dropped
